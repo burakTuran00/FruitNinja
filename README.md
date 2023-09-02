@@ -3,8 +3,6 @@ Clone of Fruit Ninja
 
 I made the Fruit Ninja. I used the Unity Editor and C# for coding. I want to explain What I did.
 
--Spawner
-
 - Blade Fruit
 
 - Bomb
@@ -13,6 +11,9 @@ I made the Fruit Ninja. I used the Unity Editor and C# for coding. I want to exp
 
 - Fruit Particle Effect
 
--GameManager
+- Spawner
 
--UI
+- GameManager
+
+- UI
+
